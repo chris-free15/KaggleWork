@@ -2,6 +2,7 @@ import pandas as pd
 
 """
 - Summary functions
+    - statistics across parts of your data
     - describe()
 """
 

@@ -17,7 +17,9 @@ pd.set_option('max_rows', 5)
 print(reviews.country)
 print("----------------")
 print()
-
+# does the same thing.
+# accessing object's attributes above
+# indexing below
 print(reviews['country'])
 print("----------------")
 print()
